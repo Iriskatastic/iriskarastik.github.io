@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend</title>
+    <link>https://korkishko.com/</link>
+    <description>Recent content on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Iren Korkishko</copyright>
+    <lastBuildDate>Mon, 12 Nov 2018 21:09:34 +0200</lastBuildDate>
+    
+	<atom:link href="https://korkishko.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About My Blog</title>
+      <link>https://korkishko.com/posts/about-my-blog/</link>
+      <pubDate>Mon, 12 Nov 2018 21:09:34 +0200</pubDate>
+      
+      <guid>https://korkishko.com/posts/about-my-blog/</guid>
+      <description>This blog was created thanks to @Dmrz. Here I will share our stories and pictures from different countries and adventures. Pictures included!</description>
+    </item>
+    
+  </channel>
+</rss>
