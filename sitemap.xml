@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://korkishko.com/posts/about-my-blog/</loc>
+    <loc>https://korkishko.com/showcase/</loc>
+    <lastmod>2018-11-16T20:05:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://korkishko.com/about/</loc>
+    <lastmod>2018-11-16T20:05:44+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://korkishko.com/post/about-my-blog/</loc>
     <lastmod>2018-11-12T21:09:34+02:00</lastmod>
   </url>
   
@@ -14,12 +24,12 @@
   
   <url>
     <loc>https://korkishko.com/</loc>
-    <lastmod>2018-11-12T21:09:34+02:00</lastmod>
+    <lastmod>2018-11-16T20:05:48+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://korkishko.com/posts/</loc>
+    <loc>https://korkishko.com/post/</loc>
     <lastmod>2018-11-12T21:09:34+02:00</lastmod>
     <priority>0</priority>
   </url>
